@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>
+            <link rel="stylesheet" type="text/css" href="style.css">
+            <img src="/img/ThrowLikeAPrologo-07.png" alt="Throw Like A Pro"
+            <ul>
+                    <li>FEATURES</li>
+                    <li>ABOUT</li>
+                    <li>STORE</li>
+                    <li>BLOG</li>
+                    </ul>
+        </title>
+        <body>
+            <div clas="main">
+                <h1>Dr.Andrews releases 'Throw Like A Pro' app to help reduce elbow injureies</h1>
+                <p>Dr.James Andrews and Dr.Kevin Wilk have released the 'Throw Like A Pro' app, designed to help reduce the number of elbow injuries,specifically Tommy John surgey. They 'anticipate a 60% reduction in overuse related baseball injuries in the coming years' if the app is used properly, according to the press release</p>
+                <img src="/img/phone.png" alt="phone"
+                <a class="btn" href="#"> Learn More</a>
+                </body>
+            <script js.
+                </head>
+            </html>
